@@ -1,0 +1,30 @@
+{
+  "name": "thestory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.1",
+    "morgan": "^1.8.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frank871/thestory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frank871/thestory/issues"
+  },
+  "homepage": "https://github.com/Frank871/thestory#readme"
+}
